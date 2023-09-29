@@ -1,5 +1,4 @@
-  <a href="https://imgur.com/FIFYN6Q"><img src="https://i.imgur.com/FIFYN6Q.png" title="source: imgur.com" /></a>
-
+  <a href="https://imgur.com/2w3YS4Q"><img src="https://i.imgur.com/2w3YS4Q.png" title="source: imgur.com" /></a>
 <h1 align="center">Hi 👋, I'm Anar Mamayev</h1>
 <h3 align="center">frontend developer from Azerbaijan</h3>
 
