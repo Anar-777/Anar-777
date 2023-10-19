@@ -1,6 +1,6 @@
 <a href="https://imgur.com/2w3YS4Q"><img src="https://i.imgur.com/2w3YS4Q.png" title="source: imgur.com" /></a>
 <h1 align="center">Hi 👋, I'm Anar Mamayev</h1>
-<h3 align="center">frontend developer from Azerbaijan</h3>
+<h3 align="center">Frontend Developer From Azerbaijan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anar-777" alt="anar-777" /></a> </p>
 
